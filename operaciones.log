@@ -6,3 +6,5 @@
 2026-05-04 20:31:20,886 - ERROR - Error en Op #5: El cliente seleccionado no existe en el sistema.
 2026-05-04 20:34:34,924 - ERROR - Error en Op #2: El formato del correo 'correo-invalido' es inválido.
 2026-05-04 20:34:34,958 - ERROR - Error en Op #5: El cliente seleccionado no existe en el sistema.
+2026-05-05 19:36:04,103 - ERROR - Error en Op #2: El formato del correo 'correo-invalido' es inválido.
+2026-05-05 19:36:04,104 - ERROR - Error en Op #5: El cliente no existe en el sistema.
