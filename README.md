@@ -1,2 +1,2 @@
-# Practicas-Simuladas---Trabajo
+# Practicas-Simuladas---SOFTWARE FJ
 Actividad de programación. 
